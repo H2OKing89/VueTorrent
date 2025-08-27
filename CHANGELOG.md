@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.29.0](https://github.com/VueTorrent/VueTorrent/compare/v2.28.2...v2.29.0) (2025-08-27)
+
+
+### Features
+
+* **SearchQuery:** Match regex if enclosed with slashes ([#2459](https://github.com/VueTorrent/VueTorrent/issues/2459)) ([348b894](https://github.com/VueTorrent/VueTorrent/commit/348b894827716e755cfffd31a6ac31ca6e244b3b))
+* **sidebar:** Orderable widgets and filters ([#2438](https://github.com/VueTorrent/VueTorrent/issues/2438)) ([75083fc](https://github.com/VueTorrent/VueTorrent/commit/75083fc40ae421f90b8ddbdf3e461b5c8900d750))
+
 ## [2.28.2](https://github.com/VueTorrent/VueTorrent/compare/v2.28.1...v2.28.2) (2025-08-05)
 
 
